@@ -1,0 +1,12 @@
+.ssh/
+.cache/
+.config/
+.gnupg/
+.local/
+.ICEauthority
+.bash_logout
+.face
+.face.icon
+.lesshst
+.profile
+.bash_history
